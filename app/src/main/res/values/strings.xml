@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TriVIA</string>
+    <string name="title_text">title</string>
+    <string name="title">Trivia</string>
+    <string name="out_of_text">Question :  45/89</string>
+    <string name="True_buttom">True</string>
+    <string name="False_button">False</string>
+    <string name="correct_answer" >Correct</string>
+    <string name="incorrecct" >incorrect</string>
+    <string name="next_button">Next</string>
+    <string name="placeholder">Hello world this where we are going to add the actual text to shown!</string>
+    <string name="button_previous">Previous</string>
+    <string name="score_card">0</string>
+</resources>
